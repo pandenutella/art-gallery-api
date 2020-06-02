@@ -3,12 +3,12 @@
         {
             "id" : 1, 
             "title" : "My First Art", 
-            "date_posted": null
+            "date_posted": "June 01, 2020 12:30 AM"
         },
         { 
             "id" : 2, 
             "title" : "My Second Art", 
-            "date_posted": null
+            "date_posted": "June 01, 2020 12:30 AM"
         }
     ]
 }
