@@ -3,11 +3,13 @@
         {
             "id" : 1, 
             "title" : "My First Art", 
+            "author" : "John Doe",
             "date_posted": "June 01, 2020 12:30 AM"
         },
         { 
             "id" : 2, 
             "title" : "My Second Art", 
+            "author" : "Jane Doe",
             "date_posted": "June 01, 2020 12:30 AM"
         }
     ]
