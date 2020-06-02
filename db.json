@@ -8,6 +8,18 @@
         },
         { 
             "id" : 2, 
+            "title" : "My First Art", 
+            "author" : "Jane Doe",
+            "date_posted": "June 01, 2020 12:30 AM"
+        },
+        { 
+            "id" : 3, 
+            "title" : "My Second Art", 
+            "author" : "John Doe",
+            "date_posted": "June 01, 2020 12:30 AM"
+        },
+        { 
+            "id" : 4, 
             "title" : "My Second Art", 
             "author" : "Jane Doe",
             "date_posted": "June 01, 2020 12:30 AM"
