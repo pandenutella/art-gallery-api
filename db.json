@@ -1,0 +1,14 @@
+{
+    "blogs" : [
+        {
+            "id" : 1, 
+            "title" : "My First Art", 
+            "date_posted": null
+        },
+        { 
+            "id" : 2, 
+            "title" : "My Second Art", 
+            "date_posted": null
+        }
+    ]
+}
